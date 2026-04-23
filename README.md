@@ -11,8 +11,8 @@ Currently, I manage operations and lead data analytics in the retail sector, whe
 * **Core Competencies:** Process Automation, Predictive Modeling, Messy Data Wrangling, Vendor Managed Inventory (VMI) Strategies
 
 ### 🚀 Featured Project
-* [Smart Retail Inventory & VMI Manager](link-to-your-repo-here): A Python/Streamlit web app that ingests messy legacy POS data, enforces dynamic vendor budgets, and uses predictive algorithms to generate automated catalog orders.
+* [Smart Retail Inventory & VMI Manager]((https://github.com/adamxiii13/retail-inventory-automation)): A Python/Streamlit web app that ingests messy legacy POS data, enforces dynamic vendor budgets, and uses predictive algorithms to generate automated catalog orders.
 
 ### 📫 Let's Connect
-* [Connect with me on LinkedIn](your-linkedin-url-here)
+* [Connect with me on LinkedIn](www.linkedin.com/in/adam-platt-857490125)
 * Reach out via email: your.email@example.com
