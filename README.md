@@ -15,5 +15,5 @@ Currently, I manage operations and lead data analytics in the retail sector, whe
 * [PostgreSQL Automated ETL Pipeline:](https://github.com/adamxiii13/postgres-dvd-revenue-etl): A fully automated database solution utilizing custom user-defined functions, triggers, and stored procedures to track monthly revenue and analyze seasonal demand patterns.
 
 ### 📫 Let's Connect
-* [Connect with me on LinkedIn](www.linkedin.com/in/adam-platt-xiii-analyst)
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/adam-platt-xiii-analyst)
 * Reach out via email: AdamplattXIII@gmail.com
