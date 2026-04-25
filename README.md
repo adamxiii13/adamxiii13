@@ -10,7 +10,7 @@ Currently, I manage operations and lead data analytics in the retail sector, whe
 * **UI & Apps:** Streamlit, Google AI Studio
 * **Core Competencies:** Process Automation, Predictive Modeling, Messy Data Wrangling, Vendor Managed Inventory (VMI) Strategies
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 * [Smart Retail Inventory & VMI Manager](https://github.com/adamxiii13/retail-inventory-automation): A Python/Streamlit web app that ingests messy legacy POS data, enforces dynamic vendor budgets, and uses predictive algorithms to generate automated catalog orders.
 * [PostgreSQL Automated ETL Pipeline:](https://github.com/adamxiii13/postgres-dvd-revenue-etl): A fully automated database solution utilizing custom user-defined functions, triggers, and stored procedures to track monthly revenue and analyze seasonal demand patterns.
 
